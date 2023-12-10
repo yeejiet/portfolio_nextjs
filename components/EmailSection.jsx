@@ -20,10 +20,6 @@ const EmailSection = () => {
                     <Link href="https://www.linkedin.com/in/yee-jiet-a27a502a3/">
                         <Image src={LinkedinIcon} alt="Linkedin Icon" />
                     </Link>
-                    <Link href="mailto:yeejiet0919@gmail.com" className="mt-1">
-                        <Image src={GmailIcon}/>
-                    </Link>
-
                 </div>
             </div>
         </main>
